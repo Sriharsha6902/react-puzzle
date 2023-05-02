@@ -29,7 +29,7 @@ const CR = () => {
     return (
       <div className="hall-container">
         <h1>The Computer Room</h1>
-        <p>You enter a room and see a old dusty computer which is turned on and noticed that it may contain some important secrets</p>
+        <p>You enter a room and see a old dusty computer which is turned on and noticed that it is missing some thing you just solved. It may also contain some important secrets</p>
         <img src="https://pbs.twimg.com/media/Fl86_REXgAAY8iB.jpg" alt="Library" />
         <input
           className="inp"
