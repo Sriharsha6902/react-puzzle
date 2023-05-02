@@ -1,0 +1,85 @@
+.hall-container {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .hall-container h1 {
+    font-size: 24px;
+  }
+  
+  .hall-container p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .hall-container img {
+    max-width: 35%;
+  }
+  .start-button {
+    padding: 10px 20px;
+    background-color: aqua;
+    color: black;
+    font-size: 18px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    animation: fadeIn 1s ease-in-out;
+    display: inline-block;
+    margin: 10px;
+  }
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .modal {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 4px;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .modal-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .modal button {
+    margin-top: 10px;
+  }
+  .butcon{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display:flex;
+    flex-direction: column;
+  }
+  .but{
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: aqua;
+    color: black;
+  }
+.inp{
+  margin-top: 10px;
+}
+  button:hover {
+    background-color: #336699;
+  }
