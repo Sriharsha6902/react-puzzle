@@ -2,7 +2,8 @@
 ### Project Overview
 
 React-Puzzle is a web app that features an intriguing puzzle called "The Mysterious Mansion." The goal of this project is to engage users in an interactive and challenging experience that tests their problem-solving skills, critical thinking abilities, and observational skills.
-Puzzle Structure
+
+### Puzzle Structure
 
 The puzzle consists of multiple locations within the mansion, each presenting unique challenges and clues. There are a total of three locations: the Hall, the Library, and the Computer Room. The user must navigate through these locations to reach the hidden exit of the mansion.
 ### 1. Hall
